@@ -1,0 +1,12 @@
+.o
+*.o
+*.d
+*.i
+*.crf
+*.Igor
+*.axf
+*.dep
+build/uv4/eth_to_serial_twrk60n512/pemicro_connection_settings.ini
+build/uv4/eth_to_serial_twrk60n512/int flash release/eth_to_serial.build_log.htm
+*.map
+*.lnp
